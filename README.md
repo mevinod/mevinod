@@ -16,6 +16,7 @@
   </a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mevinod.mevinod)
 
-[![Vinod's Github Stats](https://github-readme-stats.vercel.app/api?username=mevinod)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mevinod.mevinod" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mevinod&show_icons=true&theme=gotham" alt="mevinod" />
