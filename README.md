@@ -15,8 +15,3 @@
     <img  alt="Mail Vinod" width="22px" src="https://cdn-icons-png.flaticon.com/512/482/482138.png" />
   </a>
 </p>
-
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mevinod.mevinod" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mevinod&show_icons=true&theme=gotham" alt="mevinod" />
