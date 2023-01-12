@@ -14,7 +14,7 @@
   <a href="mailto:connect@mevinod.com">
     <img  alt="Mail Vinod" width="22px" src="https://cdn-icons-png.flaticon.com/512/482/482138.png" />
   </a>&nbsp&nbsp
-  <a href="mevinod.com/">
+  <a href="https://mevinod.com">
     <img  alt="mevinod.com" width="22px" src="https://img.icons8.com/ios-glyphs/512/domain.png" />
   </a>&nbsp&nbsp
 
