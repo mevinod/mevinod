@@ -3,7 +3,7 @@
   
   <a href="https://twitter.com/karikevinod">
     <img  alt="Vinod | Twitter" width="22px" src="twitter.png" />
-  </a> &nbsp&nbsp
+  </a>
   <a href="https://www.linkedin.com/in/vab/">
     <img  alt="Vinod's LinkedIN" width="22px" src="linkedin.png" />
   </a>&nbsp&nbsp
