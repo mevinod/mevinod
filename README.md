@@ -17,7 +17,6 @@
   <a href="https://mevinod.com" target="_blank">
     <img  alt="mevinod.com" width="22px" src="web.png" />
   </a>&nbsp&nbsp
-
 </p>
 
 
